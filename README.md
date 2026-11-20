@@ -26,10 +26,12 @@ LeetCode Question Answer
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -38,5 +40,10 @@ LeetCode Question Answer
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
