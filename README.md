@@ -7,6 +7,7 @@ LeetCode Question Answer
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ LeetCode Question Answer
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
