@@ -14,7 +14,7 @@ public:
         if(s.empty()){
             return 0;
         }
-        int num = stoi(s);
+        long long num = stoi(s);
         // long long sum = 0;
         // long long ans = 0;
         // long long m = 1;
