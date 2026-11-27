@@ -21,6 +21,7 @@ LeetCode Question Answer
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/0066-plus-one) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lokeshkshaw2006-bot/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
